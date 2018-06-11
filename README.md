@@ -6,4 +6,6 @@
 
 ## Pages
 1. [index](https://rawgit.com/cromozooom/live-wdw/master/home.html)
+1. [review](https://rawgit.com/cromozooom/live-wdw/master/brands.html)
+
 1. [ index- AMP](https://rawgit.com/cromozooom/live-wdw/master/index_amp.html)
